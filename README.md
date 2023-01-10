@@ -12,8 +12,8 @@ For basic customizing all the variables are stored ain a  SASS file and all the 
 
 ## Acknowledgments and Credits
 
- - [Image Assets](https://www.pexels.com/)
- - [Graphic Assets](https://elements.envato.com/)
+ - [Image Assets - Pexels](https://www.pexels.com/)
+ - [Graphic Assets - Envato](https://elements.envato.com/)
 
 ## Screenshots
 
