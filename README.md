@@ -7,7 +7,7 @@ For basic customizing all the variables are stored ain a  SASS file and all the 
 * Responsive Website Using HTML CSS (SASS) & JavaScript
 * Smooth scrolling in each section.
 * SASS variables for easy customizing
-* Media Queries for responsives with Tables and Mobile
+* Media Queries for responsivness with Tables and Mobile
 * Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ## Acknowledgments and Credits
